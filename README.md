@@ -5,10 +5,10 @@ Welcome to this project combining Java web app development and AWS CI/CD tools!
 <br>
 
 ## Table of Contents
-- [Introduction](#Java-based web app using AWS
+- [Introduction](#Introduction)
 - [Technologies](#technologies)
 - [Setup](#setup)
-- [Contact](#www.linkedin.com/in/darrylb757)
+- [Contact](#contact)
 - [Conclusion](#conclusion)
 
 <br>
@@ -55,6 +55,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 Darryl757 - darrylbrown1991@gmail.com 
+www.linkedin.com/in/darrylb757
 
 ## Conclusion
 Thank you for exploring this project! I'll continue to build this pipeline and apply my learnings to future projects.
